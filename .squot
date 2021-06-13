@@ -1,4 +1,5 @@
 OrderedDictionary {
+	'Lab-Zoo.package' : #SquotCypressCodeSerializer,
 	'Employee-Example.package' : #SquotCypressCodeSerializer,
 	'EmployeeTest-Example.package' : #SquotCypressCodeSerializer
 }
