@@ -1,0 +1,17 @@
+{
+	"category" : "Employee-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"empName",
+		"empNum",
+		"empSalary",
+		"empSkills" ],
+	"name" : "Employee",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

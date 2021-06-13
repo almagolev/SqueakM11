@@ -1,0 +1,14 @@
+{
+	"category" : "Employee-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"employees" ],
+	"name" : "EmployeeDataBase",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

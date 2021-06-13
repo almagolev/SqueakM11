@@ -1,15 +1,17 @@
 {
-	"category" : "Lab-Zoo",
+	"category" : "EmployeeTest-Example",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"numOfLegs",
-		"firstName" ],
-	"name" : "Animal",
+		"e1",
+		"e2",
+		"e3",
+		"db" ],
+	"name" : "EmployeeTest",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "TestCase",
 	"type" : "normal" }
