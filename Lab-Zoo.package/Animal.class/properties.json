@@ -1,0 +1,15 @@
+{
+	"category" : "Lab-Zoo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"numOfLegs",
+		"firstName" ],
+	"name" : "Animal",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
